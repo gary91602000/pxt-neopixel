@@ -1,7 +1,7 @@
 {
     "name": "neopixel",
     "version": "0.6.12",
-    "description": "AdaFruit NeoPixel driver",
+    "description": "Copyright belongs to Microsoft/pxt-neopixel",
     "license": "MIT",
     "dependencies": {
         "core": "*",

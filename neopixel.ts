@@ -1,3 +1,5 @@
+//quoted from:https://github.com/Microsoft/pxt-neopixel
+
 /**
  * Well known colors for a NeoPixel strip
  */
